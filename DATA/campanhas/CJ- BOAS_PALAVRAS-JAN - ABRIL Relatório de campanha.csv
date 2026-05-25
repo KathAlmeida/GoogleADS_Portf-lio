@@ -1,0 +1,24 @@
+Relatório de campanha
+1 de janeiro de 2026 - 30 de abril de 2026
+Mês,Status da campanha,Campanha,Orçamento,Nome do orçamento,Tipo de orçamento,Código da moeda,Status,Motivos do status,Pontuação de otimização,Tipo de campanha,Cliques,Impr.,CTR,CPC méd.,Custo,Tipo de estratégia de lances,Taxa de conv.,Conversões,Custo / conv.
+janeiro de 2026,Ativada,05/08 - Duplicada - Boas Palavras - Max. Conversao,"40,00", --,Diário,BRL,Qualificado (limitado),limitado pelo orçamento,"43,55",Pesquisa,408,4.333,"9,42%","1,83","744,63",Maximizar as conversões,"30,88%","126,00","5,91"
+fevereiro de 2026,Ativada,05/08 - Duplicada - Boas Palavras - Max. Conversao,"40,00", --,Diário,BRL,Qualificado (limitado),limitado pelo orçamento,"43,55",Pesquisa,216,1.973,"10,95%","3,61","780,08",Maximizar as conversões,"28,70%","62,00","12,58"
+março de 2026,Ativada,05/08 - Duplicada - Boas Palavras - Max. Conversao,"40,00", --,Diário,BRL,Qualificado (limitado),limitado pelo orçamento,"43,55",Pesquisa,273,3.494,"7,81%","4,84","1322,50",Maximizar as conversões,"26,37%","72,00","18,37"
+abril de 2026,Ativada,05/08 - Duplicada - Boas Palavras - Max. Conversao,"40,00", --,Diário,BRL,Qualificado (limitado),limitado pelo orçamento,"43,55",Pesquisa,277,3.459,"8,01%","5,56","1540,07",Maximizar as conversões,"24,19%","67,00","22,99"
+ --,Total: Campanhas, --, --, --, --,BRL, --,, --, --,1.174,13.259,"8,85%","3,74","4387,28", --,"27,85%","327,00","13,42"
+ --,Total: Campanhas, --, --, --, --,BRL, --,, --, --,0,0, --,0,0, --, --,0,0
+ --,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0, --, --,0,0
+janeiro de 2026,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0, --, --,0,0
+fevereiro de 2026,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0, --, --,0,0
+março de 2026,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0, --, --,0,0
+abril de 2026,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0, --, --,0,0
+ --,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0, --, --,0,0
+janeiro de 2026,Total: Campanhas, --, --, --, --,BRL, --,, --, --,408,4.333,"9,42%","1,83","744,63", --,"30,88%","126,00","5,91"
+fevereiro de 2026,Total: Campanhas, --, --, --, --,BRL, --,, --, --,216,1.973,"10,95%","3,61","780,08", --,"28,70%","62,00","12,58"
+março de 2026,Total: Campanhas, --, --, --, --,BRL, --,, --, --,273,3.494,"7,81%","4,84","1322,50", --,"26,37%","72,00","18,37"
+abril de 2026,Total: Campanhas, --, --, --, --,BRL, --,, --, --,277,3.459,"8,01%","5,56","1540,07", --,"24,19%","67,00","22,99"
+,Total: Campanha,,,,,BRL,,,,,1.174,13.259,"8,85%","3,74","4387,28",,"27,85%","327,00","13,42"
+abril de 2026,Total: Campanha,,,,,BRL,,,,,277,3.459,"8,01%","5,56","1540,07",,"24,19%","67,00","22,99"
+fevereiro de 2026,Total: Campanha,,,,,BRL,,,,,216,1.973,"10,95%","3,61","780,08",,"28,70%","62,00","12,58"
+março de 2026,Total: Campanha,,,,,BRL,,,,,273,3.494,"7,81%","4,84","1322,50",,"26,37%","72,00","18,37"
+janeiro de 2026,Total: Campanha,,,,,BRL,,,,,408,4.333,"9,42%","1,83","744,63",,"30,88%","126,00","5,91"

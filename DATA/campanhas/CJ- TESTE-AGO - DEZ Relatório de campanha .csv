@@ -1,0 +1,28 @@
+Relatório de campanha
+5 de agosto de 2025 - 31 de dezembro de 2025
+Mês,Status da campanha,Campanha,Orçamento,Nome do orçamento,Tipo de orçamento,Código da moeda,Status,Motivos do status,Pontuação de otimização,Tipo de campanha,Cliques,Impr.,CTR,CPC méd.,Custo,Tipo de estratégia de lances,Taxa de conv.,Conversões,Custo / conv.
+agosto de 2025,Ativada,05/08 - Duplicada - Boas Palavras - Max. Conversao,"40,00", --,Diário,BRL,Qualificado (limitado),limitado pelo orçamento,"43,55",Pesquisa,59,795,"7,42%","13,59","802,04",Maximizar as conversões,"22,03%","13,00","61,70"
+setembro de 2025,Ativada,05/08 - Duplicada - Boas Palavras - Max. Conversao,"40,00", --,Diário,BRL,Qualificado (limitado),limitado pelo orçamento,"43,55",Pesquisa,127,1.732,"7,33%","5,17","656,50",Maximizar as conversões,"29,13%","37,00","17,74"
+outubro de 2025,Ativada,05/08 - Duplicada - Boas Palavras - Max. Conversao,"40,00", --,Diário,BRL,Qualificado (limitado),limitado pelo orçamento,"43,55",Pesquisa,160,1.650,"9,70%","4,31","690,00",Maximizar as conversões,"26,88%","43,00","16,05"
+novembro de 2025,Ativada,05/08 - Duplicada - Boas Palavras - Max. Conversao,"40,00", --,Diário,BRL,Qualificado (limitado),limitado pelo orçamento,"43,55",Pesquisa,143,1.982,"7,21%","6,56","938,11",Maximizar as conversões,"28,67%","41,00","22,88"
+dezembro de 2025,Ativada,05/08 - Duplicada - Boas Palavras - Max. Conversao,"40,00", --,Diário,BRL,Qualificado (limitado),limitado pelo orçamento,"43,55",Pesquisa,256,2.883,"8,88%","2,15","551,23",Maximizar as conversões,"30,86%","79,00","6,98"
+ --,Total: Campanhas, --, --, --, --,BRL, --,, --, --,745,9.042,"8,24%","4,88","3637,88", --,"28,59%","213,00","17,08"
+ --,Total: Campanhas, --, --, --, --,BRL, --,, --, --,0,0, --,0,0, --, --,0,0
+ --,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0, --, --,0,0
+agosto de 2025,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0, --, --,0,0
+setembro de 2025,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0, --, --,0,0
+outubro de 2025,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0, --, --,0,0
+novembro de 2025,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0, --, --,0,0
+dezembro de 2025,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0, --, --,0,0
+ --,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0, --, --,0,0
+agosto de 2025,Total: Campanhas, --, --, --, --,BRL, --,, --, --,59,795,"7,42%","13,59","802,04", --,"22,03%","13,00","61,70"
+setembro de 2025,Total: Campanhas, --, --, --, --,BRL, --,, --, --,127,1.732,"7,33%","5,17","656,50", --,"29,13%","37,00","17,74"
+outubro de 2025,Total: Campanhas, --, --, --, --,BRL, --,, --, --,160,1.650,"9,70%","4,31","690,00", --,"26,88%","43,00","16,05"
+novembro de 2025,Total: Campanhas, --, --, --, --,BRL, --,, --, --,143,1.982,"7,21%","6,56","938,11", --,"28,67%","41,00","22,88"
+dezembro de 2025,Total: Campanhas, --, --, --, --,BRL, --,, --, --,256,2.883,"8,88%","2,15","551,23", --,"30,86%","79,00","6,98"
+,Total: Campanha,,,,,BRL,,,,,745,9.042,"8,24%","4,88","3637,88",,"28,59%","213,00","17,08"
+outubro de 2025,Total: Campanha,,,,,BRL,,,,,160,1.650,"9,70%","4,31","690,00",,"26,88%","43,00","16,05"
+dezembro de 2025,Total: Campanha,,,,,BRL,,,,,256,2.883,"8,88%","2,15","551,23",,"30,86%","79,00","6,98"
+agosto de 2025,Total: Campanha,,,,,BRL,,,,,59,795,"7,42%","13,59","802,04",,"22,03%","13,00","61,70"
+novembro de 2025,Total: Campanha,,,,,BRL,,,,,143,1.982,"7,21%","6,56","938,11",,"28,67%","41,00","22,88"
+setembro de 2025,Total: Campanha,,,,,BRL,,,,,127,1.732,"7,33%","5,17","656,50",,"29,13%","37,00","17,74"
